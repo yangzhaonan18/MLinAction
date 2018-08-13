@@ -1,7 +1,9 @@
+
 # 《机器学习实践》Peter Harrington
 ##### 说明：程序代码书本官网开源,中文注释是自己添加的，英文注释是官网自带的。
 ##### IDE：pycharm  python2.7
 ##### 时间：2018年5月24日至2018年7月14日<dr>
+##### 源码地址：https://www.manning.com/books/machine-learning-in-action
   
 ## 一.第一部分 监督学习 分类
 ### 1.第一章 机器学习基础
